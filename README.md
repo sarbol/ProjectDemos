@@ -9,4 +9,6 @@ Welcome to the Project Demos repository! Explore innovative projects that levera
 <img src="https://github.com/sarbol/ProjectDemos/blob/main/Assets/analyticsGPT.gif"/>
 # LegalQuery 📌
 **LegalQuery** is a legal document semantic search application that revolutionizes the way legal professionals interact with documents. It offers a user-friendly question-and-answer interface for efficient and accurate retrieval of information from legal documents. Built with OpenAI, Pinecone, LangChain, and NextJS, LegalQuery streamlines legal research and enhances productivity.
-<img src="https://github.com/sarbol/ProjectDemos/blob/main/Assets/legalquery-demo.gif"/>
+<p align="center">
+  <img src="https://github.com/sarbol/ProjectDemos/blob/main/Assets/legalquery-demo.gif"/>
+</p>
